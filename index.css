@@ -1,0 +1,125 @@
+*{
+	box-sizing: border-box;
+	margin: 0!important;
+	padding: 0!important;
+}
+
+body{
+	font-family: 'Mukta', sans-serif!important;
+	background: #A6A6A4!important;
+}
+
+.navbar{
+	background: #A6A6A4;
+}
+
+.about-me{
+	background: #E8E8E8!important;
+	border-width: 1px; 
+	border-style: solid;
+	border-color: grey!important;
+	box-shadow: 10px 7px 5px #625261;
+/*	height: 70vh;*/
+}
+
+.list-unstyled{
+	font-size: 1.5em!important
+}
+
+/*#middle{
+	height: 35em;
+}
+*/
+.about-me-font{
+	font-size: 1.5em!important;
+}
+
+#fullname{
+	font-size: 3em!important;
+	color: #2C3333;
+}
+
+#otherprojects{
+	color: #2C3333;
+	font-size: 2.5em!important;
+}
+
+#projects{
+	background: #E8E8E8!important;
+	border-width: 1px; 
+	border-style: solid;
+	border-color: grey;!important;
+	box-shadow: 10px 7px 5px #625261;	
+}
+
+.bg {
+/*	background: #89BEB3!important;
+*/	box-shadow: 10px 10px 5px gray;
+}
+
+#tools{
+	color: #2C3333;
+	font-size: 3em!important;
+}
+
+#mytoolsbg{
+	background: #E8E8E8!important;
+	border-width: 1px; 
+	border-style: solid;
+	border-color: grey!important;
+	box-shadow: 10px 7px 5px #625261;
+}
+
+#mycontactsbg{
+	background: #E8E8E8!important;
+	border-width: 1px; 
+	border-style: solid;
+	border-color: grey!important;
+	box-shadow: 10px 7px 5px #625261;
+
+}
+
+#contacts{
+	color: #2C3333;
+	font-size: 2em!important;
+}
+
+.project-title{
+	font-size: 1.5em!important;
+}
+
+#mainimage{
+	box-shadow: 8px 8px 4px #625261;
+	border: 100px!important;
+}
+
+.contactimage{
+	box-shadow: 7px 7px 3px gray;
+}
+
+.contactmefont{
+	color: #2C3333;
+	font-size: 2em!important;
+}
+
+/*.contactmeformbg{
+	background: #3C4048;
+	box-shadow: 8px 8px 4px gray;
+}*/
+
+.footerbg{
+	background: #A6A6A4;
+}
+
+/*.projectimage{
+	border-width: 1px!important; 
+	border-style: solid!important;
+	border-color: #EBD4D4!important;
+}*/
+
+.projectdetails{
+	border-width: 1px!important; 
+	border-style: solid!important;
+	border-color: #EBD4D4!important;
+	background: #89BEB3;
+}
